@@ -15,6 +15,11 @@ network={
 
 ### enabling SSH through SD card
 
+add a new ssh empty file to boot drive 
+
+
+#### if need be perform the following
+
 ssh is installed but not started by default on runlevel 2, the default for raspbian.
 Rename /etc/rc2.d/ssh/K??ssh to /etc/rc2.d/ssh/S02ssh
 
