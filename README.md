@@ -23,3 +23,6 @@ add a new ssh empty file to boot drive
 ssh is installed but not started by default on runlevel 2, the default for raspbian.
 Rename /etc/rc2.d/ssh/K??ssh to /etc/rc2.d/ssh/S02ssh
 
+#### Additional setup instructions
+
+link : https://blog.cryptoaustralia.org.au/instructions-for-setting-up-pi-hole/
